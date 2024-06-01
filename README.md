@@ -1,5 +1,6 @@
 # 💫 About Me:
-Disabled part time computer programming student
+Disabled part time computer programming student </br>
+Currently focusing on HTML and CSS
 
 
 # 💻 Tech Stack:
